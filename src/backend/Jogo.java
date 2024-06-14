@@ -38,49 +38,6 @@ public class Jogo {
         tabuleiroRestaUm.setFundo(5, 1, cartaVazio);
         tabuleiroRestaUm.setFundo(6, 1, cartaVazio);
 
-        tabuleiroRestaUm.colocaCarta(4,3,cartaPeca);
-
-        tabuleiroRestaUm.colocaCarta(3,0,cartaPeca);
-        tabuleiroRestaUm.colocaCarta(3,1,cartaPeca);
-
-//        tabuleiroRestaUm.colocaCarta(3,3,cartaPeca);
-        tabuleiroRestaUm.colocaCarta(3,3,cartaPeca);
-        tabuleiroRestaUm.colocaCarta(3,5,cartaPeca);
-
-
-    }
-/*
-      public Jogo() {
-        StringColorida jogavel = new StringColorida("   ", Cor.VERDE, Cor.FUNDO_BRANCO_BRANCO);
-        StringColorida vazio = new StringColorida(" X ", Cor.BRANCO, Cor.FUNDO_PRETO);
-        StringColorida peca = new StringColorida(" ⍟ ", Cor.VERMELHO, Cor.FUNDO_BRANCO_BRANCO);
-
-        CartaBaralho cartaJogavel = new CartaBaralho(jogavel);
-        CartaBaralho cartaVazio = new CartaBaralho(vazio);
-        CartaBaralho cartaPeca = new CartaBaralho(peca);
-
-        this.tabuleiroRestaUm = new TabuleiroRestaUm(7, 7, cartaJogavel);
-
-        tabuleiroRestaUm.setFundo(0, 0, cartaVazio);
-        tabuleiroRestaUm.setFundo(0, 1, cartaVazio);
-        tabuleiroRestaUm.setFundo(1, 0, cartaVazio);
-        tabuleiroRestaUm.setFundo(1, 1, cartaVazio);
-
-        tabuleiroRestaUm.setFundo(0, 5, cartaVazio);
-        tabuleiroRestaUm.setFundo(0, 6, cartaVazio);
-        tabuleiroRestaUm.setFundo(1, 5, cartaVazio);
-        tabuleiroRestaUm.setFundo(1, 6, cartaVazio);
-
-        tabuleiroRestaUm.setFundo(5, 5, cartaVazio);
-        tabuleiroRestaUm.setFundo(6, 6, cartaVazio);
-        tabuleiroRestaUm.setFundo(6, 5, cartaVazio);
-        tabuleiroRestaUm.setFundo(5, 6, cartaVazio);
-
-        tabuleiroRestaUm.setFundo(5, 0, cartaVazio);
-        tabuleiroRestaUm.setFundo(6, 0, cartaVazio);
-        tabuleiroRestaUm.setFundo(5, 1, cartaVazio);
-        tabuleiroRestaUm.setFundo(6, 1, cartaVazio);
-
         tabuleiroRestaUm.colocaCarta(0,2,cartaPeca);
         tabuleiroRestaUm.colocaCarta(0,3,cartaPeca);
         tabuleiroRestaUm.colocaCarta(0,4,cartaPeca);
@@ -121,7 +78,7 @@ public class Jogo {
         tabuleiroRestaUm.colocaCarta(6,3,cartaPeca);
         tabuleiroRestaUm.colocaCarta(6,4,cartaPeca);
     }
-*/ // bckp tabuleiro
+
 
     public void novoJogo() {
         tabuleiroRestaUm.novoJogo();

@@ -28,7 +28,7 @@ public class Menu {
                     movimento();
                     break;
                 case 2:
-                    Console.println("Sair");
+                    Console.println("Saindo do jogo");
                     TabuleiroRestaUm.sairDoPrograma();
                     break;
                 default:
@@ -166,6 +166,7 @@ public class Menu {
                         pause();
                         break;
                     case 'Q':
+                        Console.println("Saindo do jogo");
                         TabuleiroRestaUm.sairDoPrograma();
                         break;
                     default:
