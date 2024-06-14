@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JogoRestaUm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JogoRestaUm_jar</output-path>
+    <root id="archive" name="JogoRestaUm.jar">
+      <element id="module-output" name="JogoRestaUm" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/CGM/cardgamemaker-0.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="cardgamemaker-0.3" />
+    </root>
+  </artifact>
+</component>
