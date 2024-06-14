@@ -1,4 +1,4 @@
-package src.frontend;
+/* package src.frontend;
 
 import console.Console;
 import cores.Cor;
@@ -39,3 +39,5 @@ public class Testador {
         Console.println(restaUm);
     }
 }
+
+ */
