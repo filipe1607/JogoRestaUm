@@ -3,6 +3,7 @@
 Este é um projeto de um jogo em Java baseado no famoso "Resta Um". O objetivo do jogo é escolher uma fileira, tanto inicial quanto final, para selecionar a primeira peça a ser movida, e em seguida escolher a fileira e coluna inicial onde há um espaço disponível para movimento.
 
 ## Regras do Jogo
+- O tabuleiro se baseia numa matriz de 7x7, então ao selecionar a coluna é fileira, as posições começam em 0 e terminam em 6. Levar isso em consideração antes de escolher a posição. 
 - Escolha uma fileira inicial e final para selecionar a primeira peça a ser movida.
 - Escolha a fileira e coluna inicial onde há um espaço disponível para movimento.
 - Continue fazendo movimentos até restar apenas uma peça no tabuleiro.
