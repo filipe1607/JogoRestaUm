@@ -14,7 +14,7 @@ Este é um projeto de um jogo em Java baseado no famoso "Resta Um". O objetivo d
 3. Repita o processo até restar apenas uma peça no tabuleiro.
 
 ## Sobre o Autor
-Filipe Ribeiro De Sousa, 25 anos, estudante de Ciência da Computação atualmente no quarto período.
+Filipe Ribeiro De Sousa, 25 anos, estudante de Ciência da Computação atualmente no quinto período.
 
 Este trabalho foi desenvolvido como parte da matéria de Programação Orientada a Objetos, ministrada pelo professor Gabriel Carvalho na UNIAN - Anhanguera Niterói.
 
